@@ -41,7 +41,7 @@ Load data to
 ```
 # Model
 
-Notebook for train moel `Base_Model4`
+Notebook for train model `Base_Model4`
 
 
 # Demo
