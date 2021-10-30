@@ -1,7 +1,6 @@
 **/*.ipynb_checkpoints/
 
 __pycache__/
-data/
 
 # OS generated files
 .DS_Store
