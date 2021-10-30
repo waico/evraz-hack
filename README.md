@@ -2,8 +2,51 @@
 
 Code for evraz hack
 
+# How to Run 
 
-### The directory structure
+## 1. Fork / Clone repo
+- fork to your personal repo 
+- clone to you local machine
+
+
+## 2. Use a virtual environment
+
+Сreate and activate virtual environment
+```bash
+python3 -m venv venv-evraz
+echo "export PYTHONPATH=$PWD" >> venv-evraz/bin/activate
+source venv-evraz/bin/activate
+```
+
+Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+Add virtual environment to Jupyter Notebook
+```bash
+python -m ipykernel install --user --name=venv-evraz
+``` 
+
+Run Jupyter Notebook 
+```bash
+jupyter notebook
+```
+
+# Data load
+Load data to
+```
+├── data
+│   ├── raw   
+```
+# Model
+
+Notebook for train moel `Base_Model4`
+
+
+# Demo
+[evraz-waico](https://share.streamlit.io/dimas71bit/evraz_gui/main)
+# The directory structure
 ```
 ├── README.md          <- The top-level README for developers using this project.
 │
