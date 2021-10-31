@@ -1,7 +1,7 @@
 # Welcome to evraz-hack
 
 Code for evraz hack
-Contacts: tg - @_iv_maksimov
+Contacts: tg - @iv_maksimov
 # How to Run 
 
 ## 1. Fork / Clone repo
