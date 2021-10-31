@@ -1,7 +1,7 @@
 # Welcome to evraz-hack
 
 Code for evraz hack
-
+Contacts: tg - @_iv_maksimov
 # How to Run 
 
 ## 1. Fork / Clone repo
@@ -41,7 +41,7 @@ Load data to
 ```
 # Model
 
-Notebook for train model `Base_Model4`
+Notebook for train final model `FinalSubmission`
 
 # Description task 1
 
@@ -49,7 +49,7 @@ Notebook for train model `Base_Model4`
 2. По газу сделали агрегации по данным начала и конца продувки. По ним сделали отдельные агрегации.
 3. Отбросили малозначимые признаки
 4. Сформировали датасет.
-5. Подробный код в  `Notebooks/Base_Model4.ipynb`
+5. Подробный код в  `FinalSubmission.ipynb`
 
 # Description task 2
 
